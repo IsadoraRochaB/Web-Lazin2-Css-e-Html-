@@ -1,0 +1,296 @@
+body {
+    background-color: rgb(245, 210, 215);
+}
+.cachorro-comeco{
+    width: 45px;
+}
+
+.gato-comeco{
+    width: 45px;
+}
+
+.img-botão{
+    position: relative;
+    
+}
+
+.lupa{
+    margin-left: 10px;
+    background-color:brown;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+.lupa-gato{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-adotar{
+    position: relative;
+    margin-left: 10px;
+    background-color: #FFF8F8;
+    padding: 20px;
+    border-radius: 120px;
+
+}
+
+.pata-urso{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.img-pata{
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+.coracao1{
+    margin: 20px;
+    display: flex;
+    align-items: center; 
+}
+
+.img-coracao1{
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+.exclamacao{
+    margin: 20px;
+    display: flex;
+    align-items: center; 
+}
+
+.img-exclamacao1{
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+.insta{
+    margin: 20px;
+    display: flex;
+    align-items: center; 
+}
+
+.insta-1{
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+
+.secao-link{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.link-ajudar{
+    margin-left: 10px;
+    background-color: #FFF8F8;
+    padding: 20px;
+    border-radius: 120px;
+    
+}
+
+.secao-link2{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.link-informacoes{
+    margin-left: 10px;
+    background-color: #FFF8F8;
+    padding: 20px;
+    border-radius: 120px;
+}
+
+.secao-link3{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.roda-pe{
+    background-color:#FFC1C1;
+    height: 150px;
+    margin-top: 38px;
+    padding-bottom: 30px;
+    
+}
+
+.adote-um-amigo{
+    display: flex;
+    display: block;
+}
+
+.organizacao1{
+    display: flex;
+    justify-content:space-between;
+    
+}
+.escrito1{
+   height: 130px;
+}
+
+.escrito2{
+    text-align: right;
+    margin-left: 10px;
+    
+    height: 130px;
+}
+
+.todas-secoes{
+    display: block;
+    display: flex;
+    justify-content:flex-start
+}
+.secao-comunicacao1{
+    margin: 20px;
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 5px;
+    border-radius: 100px;
+  
+}
+
+.secao-comunicacao2{
+    margin: 20px;
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 5px;
+    border-radius: 100px;
+  
+
+}
+
+.secao-comunicacao3{
+    margin: 20px;
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 2px;
+    border-radius: 100px;
+  
+
+}
+
+.quadrados-informacoes{
+    background-color: #FCEFEF;
+    width: 197px;
+    height: 259px;
+    margin-top: 40px;
+    margin-right: 100px; 
+    border: 1px solid #8B6969;
+
+
+}
+
+.informacoes1{
+    display:flex;
+    justify-content:center;
+}
+
+.bolinhas-info-geral{
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 80px;  
+    
+}
+
+.bolinhaa1{
+  margin-top: 30px;
+}
+
+.bola-1{
+    margin-left: 20px;
+}
+
+.retangulo.contas{
+    background-color: #FCEFEF;
+    width: 197px;
+    height: 259px;
+    margin-top: 40px;
+    margin-right: 100px; 
+    border: 1px solid #8B6969;
+
+}
+
+
+.quadrado-contas{
+    background-color: #FCEFEF;
+    width: 197px;
+    height: 259px;
+    margin-top: 40px;
+    margin-right: 100px; 
+    border: 1px solid #8B6969;
+}
+
+.plata-casa{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;
+  
+}
+
+.animal1{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;
+}
+
+.vacina{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;
+}
+
+.despesas{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;
+}
+
+.familia{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;  
+}
+
+.placa-hotel{
+    align-items: center;
+    position: relative;
+    background-color: #CD9B9B;
+    padding: 28px;
+    border-radius: 600px;  
+
+}
+
+
+
+
